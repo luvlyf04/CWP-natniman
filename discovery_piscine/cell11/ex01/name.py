@@ -1,5 +1,5 @@
 firstname = "nattiya"
 lastname = "nimanussonkul"
-wholename = firstname + lastname
+whole_name = firstname + " " + lastname
 
-print(wholename)
+print(whole_name)
